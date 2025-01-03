@@ -1,9 +1,9 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Rajdev21_bot
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com
+# Ask Doubt on telegram @raj_dev21
 
 from client import Bot
 
-print("Bot Started 👍 Powered By @VJ_Botz")
+print("Bot Started 👍 Powered By @raj_dev21")
 Bot().run()
 
