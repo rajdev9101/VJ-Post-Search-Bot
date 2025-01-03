@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg -@Rajdev21_bot
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com
+# Ask Doubt on telegram @raj_dev21
 
 # Never Give DATABASE_URI And BOT_TOKEN Here If Repo Is Forked Or Public Because This May Lead Account Ban.
 
